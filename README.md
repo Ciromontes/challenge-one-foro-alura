@@ -43,22 +43,21 @@
   2. Después de tener el repositorio "forkado" para su cuenta, verifica si la url de la página es la del repositorio de su cuenta.
 
  <p align="center" >
-     <img width="600" heigth="600" src="https://user-images.githubusercontent.com/101413385/173256272-6dd3eaba-b52e-42ec-b307-17ed785f9110.png">
+     <img width="600" heigth="600" src="https://user-images.githubusercontent.com/78982435/209683304-04e0d114-8834-4449-b82b-29a38f057f2d.png">
 </p>
 
   3. Haga clic en la opción **Code**. Presenta tres formas para instalar el repositorio en su máquina, y destacamos dos:
 
      <p align="center" >
-     <img width="600" heigth="600" src="https://user-images.githubusercontent.com/101413385/173166461-e62d9704-98d5-4773-a60e-57d5729575ae.png">
+     <img width="600" heigth="600" src="https://user-images.githubusercontent.com/78982435/209683480-72fab313-ecbc-4de7-8f75-2d6b5013ea49.png">
      </p></br>
 
-   
 #### 🔹 Clonar o descargar el ZIP
 
 1 - Para clonar, simplemente copia el <em>url</em> resaltado en la imagen y ubicado justo debajo del HTTPS, crea una carpeta en tu computadora, abre el <em>cmd</em> o el <em>git bash</em> dentro de esa carpeta y luego ingresa el comando <strong>git clone</strong> y con el botón derecho del mouse dentro del terminal haz click en la opcion <strong>Paste</strong> para pegar el <em>url</em> y presiona <em>Enter</em>. 
 
 <p align="center" >
-     <img width="600" heigth="600" src="https://user-images.githubusercontent.com/101413385/173256523-79d38ee2-8668-435c-b31a-ac6ba78bb813.png">
+     <img width="600" heigth="600" src="https://user-images.githubusercontent.com/78982435/209683774-85c78b5e-605f-4643-818f-0bb2eddca175.png">
 </p>
 
 2 - La segunda opción es descargar el código en un paquete <strong>"zipado"</strong> y extraer la carpeta a tu computadora.
@@ -77,7 +76,7 @@
 Luego haz click en <em>Directory</em> y ubica el directorio del proyecto "clonado" o "extraído" en tu computadora. Haz click en <em>Finish</em> para completar la importación.
 
 <p align="center" >
-     <img width="600" heigth="600" src="https://user-images.githubusercontent.com/101413385/173110215-f9451a5e-a9eb-4056-aec8-6eb3e3601e53.png">
+     <img width="600" heigth="600" src="https://user-images.githubusercontent.com/78982435/209683881-aa94b361-d63e-4d78-b5db-d5215b350efa.png">
 </p>
 
 2 - La segunda forma de importar es en <em>File</em> en la opción <em>Import</em>. O a través del <strong>Project Explorer</strong> haz clic en el campo vacío con el botón derecho del mouse y elijas la opción <strong>Import</strong>.
@@ -99,7 +98,7 @@ Si te decides por el <strong>Import</strong>, se abrirá la ventana correspondie
 Luego haz clic en el botón <em>Browse</em> y busca el proyecto en el directorio local.
 
 <p align="center" >
-     <img width="600" heigth="600" src="https://user-images.githubusercontent.com/101413385/169432246-a769555c-daf9-490e-a0c7-908f7e5de967.png">
+     <img width="600" heigth="600" src="https://user-images.githubusercontent.com/78982435/209683946-24a7a3c1-8170-4280-8047-5eb70cba7a9b.png">
 </p>
 
 ## ¿Cómo incluir mi proyecto en este Challenge?
@@ -109,11 +108,12 @@ Luego haz clic en el botón <em>Browse</em> y busca el proyecto en el directorio
    - *Turma 4: **challengeforoaluralatam4**;*
    - Ve a la pestaña "`Acerca`" o `"About"` de tu proyecto en el menú de la izquierda dentro de tu repositorio de GitHub Incluye la etiqueta *"**challengeforoaluralatam4**"*.
 
-![11 gif - github](C:\Users\Adriana\Documents\latam\challenge\foro alura\11 gif - github.gif)
+![11 gif - github](https://user-images.githubusercontent.com/78982435/209682261-a06b735c-0752-48ad-bbd3-5784e4f6d7ef.gif)
 
 ## ¿Cómo hago la entrega final de mi proyecto?
 
-1. Coloca tus datos en el formulario de entrega con el **link del proyecto publicado con GitHub Pages** 🔹 [Enlace a la fomulario](https://lp.alura.com.br/alura-latam-lp-entrega-de-challenge-one-esp)
+1. Coloca tus datos en el formulario de entrega con el **link del proyecto publicado con GitHub Pages** 
+🔹 [Enlace a la fomulario](https://lp.alura.com.br/alura-latam-lp-entrega-de-challenge-one-esp)
 
    <p align="center" >
      <img width="700" heigth="700" src="https://user-images.githubusercontent.com/91544872/179625558-4dda7e69-bdaf-4a79-9ca9-82cf8fede9de.png">
