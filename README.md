@@ -112,7 +112,7 @@ Luego haz clic en el botón <em>Browse</em> y busca el proyecto en el directorio
 
 ## 📬¿Cómo hago la entrega final de mi proyecto?
 
-1. Coloca tus datos en el formulario de entrega con el **link del proyecto publicado con GitHub Pages** 
+1. Coloca tus datos en el formulario de entrega con el **link del proyecto publicado en GitHub** 
 🔹 [Enlace al fomulario](https://lp.alura.com.br/alura-latam-entrega-challenge-one-esp-back-end)
 
    <p align="center" >
