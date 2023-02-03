@@ -113,10 +113,10 @@ Luego haz clic en el botón <em>Browse</em> y busca el proyecto en el directorio
 ## 📬¿Cómo hago la entrega final de mi proyecto?
 
 1. Coloca tus datos en el formulario de entrega con el **link del proyecto publicado con GitHub Pages** 
-🔹 [Enlace a la fomulario](https://lp.alura.com.br/alura-latam-lp-entrega-de-challenge-one-esp)
+🔹 [Enlace al fomulario](https://lp.alura.com.br/alura-latam-entrega-challenge-one-esp-back-end)
 
    <p align="center" >
-     <img width="700" heigth="700" src="https://user-images.githubusercontent.com/91544872/179625558-4dda7e69-bdaf-4a79-9ca9-82cf8fede9de.png">
+     <img width="700" heigth="700" src="https://user-images.githubusercontent.com/91544872/216698915-e0d26701-44e6-4e81-8c33-211790c52f27.png">
 </p>
 
 2. Accede a tu correo electrónico para conseguir tu Insignia Exclusiva para este desafío 🏆
