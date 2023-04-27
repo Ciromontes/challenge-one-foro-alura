@@ -13,7 +13,7 @@
 
 #### 📚Sigue las lecciones y las instrucciones de contenido 
 
-#### 📃Visita la página del Desafío [¡Haciendo clic aquí!](https://www.aluracursos.com/challenges/oracle-one-java) 
+#### 📃Visita la página del Desafío [¡Haciendo clic aquí!](https://www.aluracursos.com/challenges/oracle-one-back-end/aluraforo) 
 
 
 
